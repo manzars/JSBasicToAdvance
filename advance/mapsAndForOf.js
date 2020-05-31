@@ -16,7 +16,7 @@ var sam = {
     isActive: false
 }
 
-var user = new Map()
+var user = new Map() 
 user.set("john", john)
 user.set("marry", marry)
 user.set("sam", sam)

@@ -63,7 +63,7 @@ const toDos = [{
 
 // var value = toDos.filter((todo) => todo.notDone === false)
 
-// const x = value.forEach((todo, index) => {
+// const x = value.forEach((todo, index) => {  
 //     console.log(todo.title)
 // })
 
